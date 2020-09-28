@@ -35,3 +35,4 @@ void OutputStudent(struct student *p)
 	printf("value[0].age = %d\n",p[0].age);
 	printf("value[1].age = %d\n",p[1].age);
 }
+//问自己哪里错了？？
